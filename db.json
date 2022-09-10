@@ -4,9 +4,11 @@
     { "id": 254317130001, "vigencia": "S" },
     { "id": 254317130002, "vigencia": "N" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "aplicaAnticipo": [
+    { "id": 254317130000, "aplica": true },
+    { "id": 254317130001, "aplica": false },
+    { "id": 254317130002, "aplica": true },
+    { "id": 254317130003, "vigencia": false }
   ],
   "profile": {
     "name": "typicode"
