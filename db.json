@@ -1,8 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "vigenciaDui": [
+    { "id": 254317130000, "vigente": "N" },
+    { "id": 254317130001, "title": "S" },
+    { "id": 254317130002, "title": "N" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
